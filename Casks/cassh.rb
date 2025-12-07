@@ -1,6 +1,6 @@
 cask "cassh" do
   version "1.0.0"
-  sha256 "1e86f9f22444b84eac719f6495439f68257cffc672a298fd3da495f02ae1a2d9"
+  sha256 "5a88096fb6e3bdcca5c1a3761f87b3b3b3768d95e5bcd91389cdbc660c3eafdf"
 
   url "https://github.com/shawntz/cassh/releases/download/v#{version}/cassh-#{version}.pkg"
   name "cassh"
